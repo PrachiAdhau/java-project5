@@ -5,5 +5,9 @@ public class PersonalDetails {
 	public static void main(String[] args) {
 		System.out.println("This is personal details class");
 	}
-
+public void data()
+	{
+	  System.out.println("This is personal details class"); 
+	}
+	
 }
